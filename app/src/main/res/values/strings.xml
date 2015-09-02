@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DeepLinkDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="item">item</string>
+
+    <string name="discount">特價</string>
+    <string name="electronics">家電</string>
+    <string name="toys">玩具</string>
+    <string name="sports">運動用品</string>
+    <string name="books">書籍</string>
+    <string name="detail_info">詳細資訊</string>
+
+    <string name="deeplink_main_first_parse">example://gizmos/</string>
+    <string name="deeplink_item_first_parse">example://gizmos_item/</string>
+
+</resources>
